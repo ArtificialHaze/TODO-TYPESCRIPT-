@@ -1,0 +1,14 @@
+/* GLOBAL STYLE */
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+/* MAIN STYLE */
+
+#list {
+  list-style: none;
+  padding: inherit;
+}
